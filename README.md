@@ -6,7 +6,7 @@ Allow me to tell my capabilities:
 - Lazy
 
 ## Statistics
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
