@@ -15,7 +15,7 @@ Allow me to tell my capabilities:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=github-readme-stats&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=anuraghazra.github.io&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=ROBLOXIPPuller&theme=dracula" />
 </a>
 
 <!--
