@@ -1,10 +1,15 @@
-### What you looking at *buddy* 👀
-#### anyway xD
-# Stats 
-[![NinaLota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
----
-# Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## Greetings! It's a pleasure to encounter you here.
+
+Allow me to present my professional credentials:
+- 7 years of programming experience
+- Knowing following programming languages: C#, Java, HTML, CSS, PHP, JavaScript, Python, Lua, C++, Rust, and AppleScript
+- Definitely not lazy
+
+## Statistics
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ImAFrogOwO/ImAFrogOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
