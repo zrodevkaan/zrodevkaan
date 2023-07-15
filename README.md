@@ -10,6 +10,14 @@ Allow me to tell my capabilities:
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=github-readme-stats&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=anuraghazra.github.io&theme=dracula" />
+</a>
+
 <!--
 **ImAFrogOwO/ImAFrogOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
