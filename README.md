@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&weight=100&pause=1000&color=F7F7F7&width=435&lines=Greetings!+It's+a+pleasure+to+encounter+you+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&weight=100&pause=1000&color=F7F7F7&width=435&lines=It's+a+pleasure+to+encounter+you+here.)](https://git.io/typing-svg)
 
 Allow me to tell my capabilities:
 - 7 years of programming experience
