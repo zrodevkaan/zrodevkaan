@@ -12,10 +12,8 @@ Allow me to tell my capabilities:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Forks/Repo's
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=LastLogin&theme=dracula" />
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=ROBLOXIPPuller&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![lastLogin](https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=LastLogin&theme=dracula)](https://github.com/ImAFrogOwO/LastLogin)
+[![RobloxIPPuller](https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=ROBLOXIPPuller&theme=dracula)](https://github.com/daymxn/ROBLOXIPPuller)
 <!--
 **ImAFrogOwO/ImAFrogOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
