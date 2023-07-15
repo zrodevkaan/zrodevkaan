@@ -12,7 +12,7 @@ Allow me to tell my capabilities:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAFrogOwO&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=github-readme-stats&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=LastLogin&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=ROBLOXIPPuller&theme=dracula" />
