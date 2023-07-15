@@ -1,6 +1,6 @@
 ## Greetings! It's a pleasure to encounter you here.
 
-Allow me to present my professional credentials:
+Allow me to tell my capabilities:
 - 7 years of programming experience
 - Knowing following programming languages: C#, Java, HTML, CSS, PHP, JavaScript, Python, Lua, C++, Rust, and AppleScript
 - Lazy
