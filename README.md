@@ -1,7 +1,10 @@
 ### What you looking at *buddy* 👀
-
+#### anyway xD
+---
+# Stats 
 [![NinaLota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
+# Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ImAFrogOwO/ImAFrogOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
