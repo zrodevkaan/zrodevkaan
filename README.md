@@ -14,6 +14,22 @@ Allow me to tell my capabilities:
 ## Forks/Repo's
 [![lastLogin](https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=LastLogin&theme=dracula)](https://github.com/ImAFrogOwO/LastLogin)
 [![RobloxIPPuller](https://github-readme-stats.vercel.app/api/pin/?username=ImAFrogOwO&repo=ROBLOXIPPuller&theme=dracula)](https://github.com/daymxn/ROBLOXIPPuller)
+
+<script>
+  var counter = 0;
+  var dots = ['.', '..', '...'];
+
+  function displayNextDot() {
+    document.getElementById('dots').innerHTML = dots[counter];
+    counter = (counter + 1) % dots.length;
+  }
+
+  setInterval(displayNextDot, 500);
+</script>
+
+<span id="dots"></span>
+
+
 <!--
 **ImAFrogOwO/ImAFrogOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
