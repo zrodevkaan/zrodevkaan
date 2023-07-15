@@ -1,6 +1,5 @@
 ### What you looking at *buddy* 👀
 #### anyway xD
----
 # Stats 
 [![NinaLota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
