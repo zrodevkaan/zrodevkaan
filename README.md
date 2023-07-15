@@ -3,7 +3,7 @@
 Allow me to present my professional credentials:
 - 7 years of programming experience
 - Knowing following programming languages: C#, Java, HTML, CSS, PHP, JavaScript, Python, Lua, C++, Rust, and AppleScript
-- Definitely not lazy
+- Lazy
 
 ## Statistics
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
