@@ -1,9 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=_NineLota_%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,react,nodejs,js,lua,python,php,html,css,c++,java,rust,applescript&theme=dark)](https://skillicons.dev)
 Allow me to tell my capabilities:
 - 7 years of programming experience
-- Knowing following programming languages: C#, Java, HTML, CSS, PHP, JavaScript, Python, Lua, C++, Rust, and AppleScript
-- Lazy
 
 ## Statistics
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAFrogOwO&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
