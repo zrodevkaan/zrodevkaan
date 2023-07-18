@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&weight=100&pause=1000&color=F7F7F7&width=435&lines=It's+a+pleasure+to+encounter+you+here.)](https://git.io/typing-svg)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=_NineLota_%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 Allow me to tell my capabilities:
 - 7 years of programming experience
