@@ -4,4 +4,4 @@
 ------
                              7 Years of programming experience expanding to Game Development, Tools, Hacks, Modding and more.
 
-![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=ImAFrogOwO&count_private=true&theme=dark&show_icons=true)[![Discord Presence](https://lanyard.cnrad.dev/api/499400512559382538)](https://discord.com/users/499400512559382538)
+![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=ImAFrogOwO&count_private=true&theme=dark&show_icons=true)[![Discord Presence](https://lanyard.cnrad.dev/api/917630027477159986)](https://discord.com/users/499400512559382538)
