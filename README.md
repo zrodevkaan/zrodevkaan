@@ -3,5 +3,3 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=About%20Me&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
 ------
                              7 Years of programming experience expanding to Game Development, Tools, Hacks, Modding and more.
-
-![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=ImAFrogOwO&count_private=true&theme=dark&show_icons=true)[![Discord Presence](https://lanyard.cnrad.dev/api/917630027477159986)](https://discord.com/users/499400512559382538)
