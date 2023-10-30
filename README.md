@@ -6,4 +6,4 @@
 ------
                              7 Years of programming experience expanding to Game Development, Tools, Hacks, Modding and more.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImAFrogOwO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImAFrogOwO&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
