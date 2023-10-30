@@ -5,3 +5,5 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=About%20Me&width=1000&height=100)](https://github.com/Akshay090/svg-banners) -->
 ------
                              7 Years of programming experience expanding to Game Development, Tools, Hacks, Modding and more.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImAFrogOwO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
