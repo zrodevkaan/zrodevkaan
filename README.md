@@ -3,5 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,blender,java,cs,c,lua,python,php,html,css,rust,discord,visualstudio&theme=dark)](https://skillicons.dev)
 ------
                              7 Years of programming experience expanding to Game Development, Tools, Modding and more.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImAFrogOwO&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+                             
+![](https://komarev.com/ghpvc/?username=zrodevkaan&color=FAC151)
+\
+[![trophy](https://github-profile-trophy.vercel.app/?username=zrodevkaan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
