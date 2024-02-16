@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=250&section=header&text=Kaan&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=61" alt="header" width="100%" height="auto" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kaan&textBg=false&desc=I%20try%20hard%20open%20source%20projects&fontAlign=50&strokeWidth=0&descAlignY=60" />
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,blender,java,cs,c,lua,python,php,html,css,rust,discord,visualstudio&theme=dark)](https://skillicons.dev)
 ------
