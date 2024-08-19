@@ -15,7 +15,7 @@
 [![Game Engines](https://skillicons.dev/icons?i=godot,unity,unreal)](https://skillicons.dev)
 - Platforms
   
-[![Platforms](https://skillicons.dev/icons?i=discord,windows)](https://skillicons.dev/icons)
+[![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
 
 \
 ![](https://komarev.com/ghpvc/?username=zrodevkaan&color=FAC151)
