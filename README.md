@@ -23,6 +23,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=zrodevkaan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:DevMarianStack" alt=":DevMarianStack" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:zrodevkaan" alt=":zrodevkaan" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=90235641)
